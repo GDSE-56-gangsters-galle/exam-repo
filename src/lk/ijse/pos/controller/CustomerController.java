@@ -12,4 +12,7 @@ package lk.ijse.pos.controller;
  * @since 10/9/2021
  */
 public class CustomerController {
+    public void saveCustomer(){
+        System.out.println("customer saved");
+    }
 }
