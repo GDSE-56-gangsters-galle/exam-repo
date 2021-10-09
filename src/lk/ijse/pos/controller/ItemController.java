@@ -13,6 +13,6 @@ package lk.ijse.pos.controller;
  */
 public class ItemController {
     public void Item(){
-        System.out.println("Item saved");
+        System.out.println("Item saved..!");
     }
 }
